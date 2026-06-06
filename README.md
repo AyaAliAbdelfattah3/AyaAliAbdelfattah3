@@ -36,3 +36,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+---
+
+## 🚀 مشاريع مميزة / Featured Projects
+
+### 🛒 [AyaShop - منصة تجارة إلكترونية متكاملة](e-commerce-final-mdbn.vercel.app/)
+* **الوصف:** منصة تسوق حديثة تتيح للمستخدمين تصفح المنتجات وإدارتها بالكامل.
+* **التقنيات المستخدمة:** `React.js` | `Redux Toolkit` | `Firebase` | `Tailwind CSS`
+* **الروابط:** [🔗 المعاينة(رابط_المشروع_اللايف) | [💻 كود المشروع على GitHub](رابط_الـ_Repository)
+
+### 💻 [ProCoder - موقع شركة برمجيات](رابط_المشروع_اللايف)
+* **الوصف:** مشروع جماعي قمنا فيه ببناء موقع تعريفي احترافي لشركة تطوير برمجيات لإظهار مهارات العمل الجماعي واستخدام الـ Git.
+* **التقنيات المستخدمة:** `JavaScript` | `Bootstrap 5` | `HTML5` | `CSS3`
+* **الروابط:** [🔗 المعاينة الحية (Live Demo)](رابط_المشروع_اللايف) | [💻 كود المشروع على GitHub](رابط_الـ_Repository)
+
