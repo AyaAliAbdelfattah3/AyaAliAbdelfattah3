@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aya-ali-52b165331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aya-ali-52b165331/" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">تكنولوجيات أعمل بها / Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -38,15 +38,10 @@
 
 ---
 
-## 🚀 مشاريع مميزة / Featured Projects
+## 🚀 Featured Projects
 
-### 🛒 [AyaShop - منصة تجارة إلكترونية متكاملة](e-commerce-final-mdbn.vercel.app/)
-* **الوصف:** منصة تسوق حديثة تتيح للمستخدمين تصفح المنتجات وإدارتها بالكامل.
-* **التقنيات المستخدمة:** `React.js` | `Redux Toolkit` | `Firebase` | `Tailwind CSS`
-* **الروابط:** [🔗 المعاينة(رابط_المشروع_اللايف) | [💻 كود المشروع على GitHub](رابط_الـ_Repository)
-
-### 💻 [ProCoder - موقع شركة برمجيات](رابط_المشروع_اللايف)
-* **الوصف:** مشروع جماعي قمنا فيه ببناء موقع تعريفي احترافي لشركة تطوير برمجيات لإظهار مهارات العمل الجماعي واستخدام الـ Git.
-* **التقنيات المستخدمة:** `JavaScript` | `Bootstrap 5` | `HTML5` | `CSS3`
-* **الروابط:** [🔗 المعاينة الحية (Live Demo)](رابط_المشروع_اللايف) | [💻 كود المشروع على GitHub](رابط_الـ_Repository)
+### 🛒 [AyaShop - E-Commerce Platform](e-commerce-final-mdbn.vercel.app/)
+* **Description:** A modern, fully responsive e-commerce application featuring dynamic product management and Redux-powered state management.
+* **Tech Stack:** `React.js` | `Redux Toolkit` | `Firebase` | `Tailwind CSS`
+* **Links:** [🔗 Live Demo](e-commerce-final-mdbn.vercel.app/) | [💻 GitHub Repository]([YOUR_GITHUB_REPO_LINK_HERE](https://github.com/AyaAliAbdelfattah3/E-commerce--final.git))
 
