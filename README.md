@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aya Ali</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Shatha](shatha-project.vercel.app)
+- 🔭 I’m currently working on [Shatha](https://shatha-project.vercel.app/)
 
 - 👯 I’m looking to collaborate on **Open-source front-end projects, especially those focusing on creative layouts and smooth animations.**
 
